@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/ccvl/net/ccvl15/jingxing/vertebrae_segmentation/run_test.py", line 202, in <module>
+    import nibabel as nib
+ModuleNotFoundError: No module named 'nibabel'
